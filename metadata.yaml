@@ -1,0 +1,45 @@
+_repo: Memoirs-of-the-Right-Rev-Daniel-Corrie-LLD-first-Bishop-of-Madras_75863
+_version: 0.0.1
+alternative_title: Memoirs of the Right Reverend Daniel Corrie, LL.D., first Bishop
+  of Madras
+creator:
+  author:
+    agent_name: Corrie, Daniel
+    birthdate: 1777
+    deathdate: 1837
+    gutenberg_agent_id: '58155'
+    url: http://www.gutenberg.org/2009/agents/58155
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Corrie
+  editors:
+  - agent_name: Corrie, George Elwes
+    alias: Corrie, G. E. (George Elwes)
+    birthdate: 1793
+    deathdate: 1885
+    gutenberg_agent_id: '58186'
+    url: http://www.gutenberg.org/2009/agents/58186
+    wikipedia: https://en.wikipedia.org/wiki/George_Corrie_(priest)
+  - agent_name: Corrie, Richard
+    gutenberg_agent_id: '58184'
+    url: http://www.gutenberg.org/2009/agents/58184
+description: ''
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75863'
+language: en
+pgterms:marc904: https://archive.org/details/memoirsofrightre00corrrich/page/n9/mode/2up
+pgterms:marc905: 20230415025751corrie
+pgterms:marc906: '1847'
+pgterms:marc907: gb
+production_note: Carol Brown, Brian Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bSeeley, Burnside, and Seeley, $c1847.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Corrie, Daniel, 1777-1837'
+- GITenberg
+title: Memoirs of the Right Rev. Daniel Corrie, LL.D., first Bishop of Madras
+url: http://www.gutenberg.org/ebooks/75863
